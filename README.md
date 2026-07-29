@@ -13,8 +13,13 @@
 
 <img src="./hd-about.svg" width="620" alt="about"/>
 
-> CS student at San Francisco State, in the SF Bay Area.<br>
-> Small, sharp tools over big vague ideas.
+> Final-year Electronics & Communication Engineering student at UIET Kurukshetra.<br>
+> Passionate about Software Engineering, AI, and building scalable web applications.
+
+I enjoy solving complex problems through clean software. My primary interests are
+full-stack development, data structures & algorithms, and AI-powered applications.
+Currently building an AI Recruitment Platform using React, TypeScript, Node.js,
+Express, MongoDB, and Python..
 
 I build fast, test on real users, and kill what doesn't work. Right now that's<br>
 [autobroll](https://github.com/andriidrok1/autobroll) — an AI short-form video editor that runs in the browser. Also<br>
